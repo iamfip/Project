@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+
+}
+
+h1{
+    text-align: center;
+
+}
+article{
+    border: 5px solid salmon;
+    border-radius: 10px;
+    padding: 5px;
+}
