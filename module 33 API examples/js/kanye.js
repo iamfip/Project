@@ -6,9 +6,7 @@
 
  const displayquote= quote =>{
      const getElement=document.getElementById('quote');
-     quote.i
-     getElement.innerText=quote.quote;
-     
+     getElement.innerText=quote.quote + " !";
      
      
  }
